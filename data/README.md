@@ -10,9 +10,13 @@ This is where the data lives (by default).
 
 > I'm not sure if providing the VM corpus online is something that will attract attention. So, for now, I'll just post the most commonly used links for downloads.
 
-> Annoyingly, each download uses different file names, neither set maps well to a file-level data structure.
+> Annoyingly, each download expands into different file names, neither set maps well to a file-level data structure.
+
+### TODO
 
 - [ ] Provide name/symlink mappings for various download services
+
+### Download Locations
 
 [Archive.org](https://archive.org/details/TheVoynichManuscript)
 
