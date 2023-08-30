@@ -1,0 +1,15 @@
+---
+version: "3.7"
+
+services:
+  via:
+    container_name: via
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: koepnick/via:2.0.12
+    volumes: 
+      - "~/Data:/data"
+    ports:
+      - "8000:8000"
+    restart: on-failure
